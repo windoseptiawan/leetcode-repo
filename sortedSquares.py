@@ -8,7 +8,7 @@ class Solution(object):
             res.append(num**2)
         return sorted(res)
 
-#Soluton 2
+#Solution 2
 class Solution(object):
     def sortedSquares(self, nums):
         
